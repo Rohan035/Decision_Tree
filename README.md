@@ -8,7 +8,7 @@ For the given ‘Iris’ dataset, create the Decision Tree classifier and visual
    
 ## Dataset:
   
-   Data can be found at :  https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
+   Data can be found at :  https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view <br>
 EDA : The dataset contains 150 rows and 6 columns the columns are SepalLenght,SepalWidth,PetalLenght,PetalWidth all the scales are in centemeter(cm) and the last row is Species which determine weather the flower is Setosa, Versicolor or Virginica.
 The data distribution among setosa, virginica, versicolor are equal so iris dataset is a Balanced dataset (as the number of data points for every class is 50).<br>
 Sepal length,Sepal width, Petal length, Petal width are called feature/Input-variable/Independent-variable Species are called Labels/Dependent-variable/Output-variable/class-label/Response label
@@ -22,7 +22,7 @@ Sepal length,Sepal width, Petal length, Petal width are called feature/Input-var
  
 ## Visual Exploratory Data
  
-  <a><img src='img/iris_deci.png' /></a>
+  <a><img src='img/Iris_deci.png' /></a>
   
 From the pairplot, we can see that the Iris-setosa species is separataed from the other two across all feature combination
 
