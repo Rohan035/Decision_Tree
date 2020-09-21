@@ -30,7 +30,7 @@ From the pairplot, we can see that the Iris-setosa species is separataed from th
   
 ## Preparing the data
  
- Independent variable or input variable = Feature variable = x
+ Independent variable or input variable = Feature variable = x <br>
  Dependent variable or output variable = Target variable = y
  
 ## Split the datset
